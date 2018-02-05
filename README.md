@@ -196,4 +196,4 @@ brew upgarade
 [SublimeText-package_ico]: ./icon/app/sublimetext_package.svg
 
 [Typora]: https://typora.io/ "Typora — a minimal markdown editor, markdown reader."
-[Typora_img]: ./img/app/typora/typora.png
+[Typora_img]: ./img/app/typora/Typora.png
