@@ -133,12 +133,12 @@ brew cask install eudic
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-1. 搜索软件
+搜索软件
 ```
 brew search 软件名称
 ```
 
-2. 安装软件
+安装软件
 ```
 // 命令行应用
 brew install 软件名称
@@ -147,21 +147,53 @@ brew install 软件名称
 brew cask install 软件名称
 ```
 
-3. 升级软件
+升级软件
 ```
 brew upgrade 软件名称
 ```
 
-4. 卸载软件
+卸载软件
 ```
 brew uninstall 软件名称
 ```
 
-5. 升级全部软件
+升级全部软件
 ```
 brew update
 brew upgarade
 ```
+
+2. [LastPass][LastPass]-云端密码管理器
+![LastPass][LastPass_ico]
+
+>LastPass密码管理器、自动填表、随机密码生成器和安全数字钱包应用程序
+
+![LastPass][LastPass_img]
+
+**LastPass**是一款密码管理器，当你在网站注册时，你可以通过**LastPss**生成高强度的密码，之后这些密码将会自动保存在**LastPass**的云端。
+
+其支持**Windows**、**MacOS**、**Linux**等PC平台与**Android**、**iOS**等移动平台，并且提供**Chrome**、**FireFox**、**Safari**、**Opera**等浏览器的插件应用。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+**LastPass**默认使用**用户名+主密码**的方式来作为你登录及管理其他密码的凭证，但更为安全的做法是：
+
+将**LastPass**配合[Google 身份验证器][Google-Authenticator]一同使用，每次登录**LastPass**账户时，都需要输入发送到[Google 身份验证器][Google-Authenticator]的上的验证码。
+
+3. [1Password][[1Password]-高颜值且功能强大的密码管理器
+![1Password][1Password_ico]
+
+>Go ahead. Forget your passwords.
+
+![1Password][1Password_img]
+
+**1Password**的功能同**LastPass**，但相比后者，**1Password**的历史更为悠久。
+
+在**1Password**中，你既可以将密码保存在**1Password**的云端，也可以将其保存在**iCloud**、**Dropbox**或者**本地**。
+
+其支持**Windows**、**MacOS**等PC平台与**Android**、**iOS**等移动平台，亦提供**Chrome**、**FireFox**、**Safari**、**Opera**等浏览器的插件应用。
+
+![MacOS][MacOS] ![Windows][Windows]
 
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
@@ -197,3 +229,13 @@ brew upgarade
 
 [Typora]: https://typora.io/ "Typora — a minimal markdown editor, markdown reader."
 [Typora_img]: ./img/app/typora/Typora.png
+
+[LastPass]: https://www.lastpass.com "LastPass密码管理器、自动填表、随机密码生成器和安全数字钱包应用程序"
+[LastPass_ico]: ./icon/app/lastpass.png
+[LastPass_img]: ./img/app/lastpass/lastpass.png
+
+[Google-Authenticator]: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2 "Google 身份验证器"
+
+[1Password]: https://1password.com/ "Go ahead. Forget your passwords."
+[1Password_ico]: ./icon/app/1password.svg
+[1Password_img]: ./img/app/1password/1password.jpg
