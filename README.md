@@ -26,6 +26,9 @@
 
 ![Web][Web] 浏览器
 
+![Develop][Develop] 开发工具
+
+
 ### 安装
 ![Windows][Windows] Windows平台可在各软件的官网下载安装。
 
@@ -57,6 +60,7 @@ brew cask install kiwix
 2. [欧路词典][Eudic]-可扩展词库的优秀词典软件
 
 ![Eudic_ico][Eudic_ico]
+
 ![欧路词典][Eudic_img]
 
 **欧路词典** 是一款优秀的词典软件，拥有**多语言翻译**、**海量词汇**、**百科**、**单词本**、**取词划词**等常用功能外，其最大的特色是支持多种词库。
@@ -98,6 +102,10 @@ brew cask install eudic
 
 ![MacOS][MacOS] ![Windows][Windows]
 
+```
+brew cask install sublime-text
+```
+
 ![SublimeText-package_ico][SublimeText-package_ico]
 
 你可以通过[Package Control][SublimeText-package]来**安装**、**卸载**、**启用**、**禁用**其他插件。
@@ -115,7 +123,32 @@ brew cask install eudic
 
 ![MacOS][MacOS] ![Windows][Windows]
 
+```
+brew cask install typora
+```
 
+## ![Media][Media] 音乐/视频
+1. [Vox][Vox]-简约、高颜值的音乐播放器
+
+![Vox][Vox_ico]
+
+> VOX Music Player for Mac & iPhone: Unlimited Solution for Music Lovers
+
+![Vox][Vox_img]
+
+**Vox**是一款简约的音乐播放器，支持高分辨率的无损音乐。
+
+**Vox**可以播放**本地**、**Vox Clound**、**Last.fm**或者**iTunes**中的音乐，此外还支持网络广播。
+
+![MacOS][MacOS] ![Windows][Windows]
+```
+brew cask install vox
+```
+你可以通过**MacOS顶部**的**Vox**菜单栏来**播放**、**暂停**、**切换**音乐，或者在软件的**设置**中，配置你喜爱的全局热键。
+
+![Vox-Menu][Vox-menu_img]
+
+![Vox-Setup][Vox-setup_img]
 
 ## ![Safe][Safe] 安全/清理/维护
 1. [Homebrew][Homebrew]-软件管家
@@ -164,6 +197,7 @@ brew upgarade
 ```
 
 2. [LastPass][LastPass]-云端密码管理器
+
 ![LastPass][LastPass_ico]
 
 >LastPass密码管理器、自动填表、随机密码生成器和安全数字钱包应用程序
@@ -176,11 +210,16 @@ brew upgarade
 
 ![MacOS][MacOS] ![Windows][Windows]
 
+```
+brew cask install lastpass
+```
+
 **LastPass**默认使用**用户名+主密码**的方式来作为你登录及管理其他密码的凭证，但更为安全的做法是：
 
 将**LastPass**配合[Google 身份验证器][Google-Authenticator]一同使用，每次登录**LastPass**账户时，都需要输入发送到[Google 身份验证器][Google-Authenticator]的上的验证码。
 
 3. [1Password][[1Password]-高颜值且功能强大的密码管理器
+
 ![1Password][1Password_ico]
 
 >Go ahead. Forget your passwords.
@@ -195,9 +234,38 @@ brew upgarade
 
 ![MacOS][MacOS] ![Windows][Windows]
 
+```
+brew cask install 1password
+```
+
+
+## ![Develop][Develop] 开发工具
+1.[Postman][Postman]-API开发测试工具
+
+![Postman][Postman_ico]
+
+> Postman - API Development Environment
+
+![Postman][Postman_img]
+
+在**Http**请求方法中，**Post**方法被用于向服务器提交数据。而名称中带有**Post**的**Postman**，则是一款功能强大的用于测试**Http**请求的API开发工具。
+
+通过**Postman**，你可以方便地对**Restfull api**进行测试，并且可以快速地生成有关的API文档分享给你的同伴。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+```
+brew cask install postman
+```
+
+通过在**Postman**中设置不同的环境，你可以快速地对**开发**、**生产**等各种环境中的API进行测试。
+
+你的API将会被自动保存在**Postman**云端，你可以随意将它同步到其他设备上。
+
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
 
+[Develop]: ./icon/type/develop.png "Develop"
 [Dictionary]: ./icon/type/dictionary.png "Dictionary"
 [Edit]: ./icon/type/edit.png "Edit"
 [Game]: ./icon/type/game.png "Game"
@@ -239,3 +307,13 @@ brew upgarade
 [1Password]: https://1password.com/ "Go ahead. Forget your passwords."
 [1Password_ico]: ./icon/app/1password.svg
 [1Password_img]: ./img/app/1password/1password.jpg
+
+[Vox]: https://vox.rocks/ "VOX Music Player for Mac & iPhone: Unlimited Solution for Music Lovers"
+[Vox_ico]: ./icon/app/vox.png
+[Vox_img]: ./img/app/vox/vox.png
+[Vox-setup_img]: ./img/app/vox/vox_setup.png
+[Vox-menu_img]: ./img/app/vox/vox_menu.png
+
+[Postman]: https://www.getpostman.com/ "Postman - API Development Environment"
+[Postman_ico]: ./icon/app/postman.svg
+[Postman_img]: ./img/app/postman/postman.png
