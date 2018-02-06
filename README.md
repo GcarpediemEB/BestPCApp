@@ -262,6 +262,25 @@ brew cask install postman
 
 你的API将会被自动保存在**Postman**云端，你可以随意将它同步到其他设备上。
 
+
+2.[iTerm2][iTerm2]-强大的终端模拟器
+
+![iTerm2][iTerm2_ico]
+
+>iTerm2 - macOS Terminal Replacement
+
+![iTerm2][iTerm2_img]
+
+**iTerm2**可以替代MacOS自带的终端模拟器软件。
+
+它支持**多面板**、**自动填充**、**粘贴历史**、**自定义主题**等众多功能，配合[ohMyZsh][ohMyZsh]效果更佳。
+
+![MacOS][MacOS]
+
+```
+brew cask install iterm2
+```
+
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
 
@@ -317,3 +336,9 @@ brew cask install postman
 [Postman]: https://www.getpostman.com/ "Postman - API Development Environment"
 [Postman_ico]: ./icon/app/postman.svg
 [Postman_img]: ./img/app/postman/postman.png
+
+[iTerm2]: https://www.iterm2.com/ "iTerm2 - macOS Terminal Replacement"
+[iTerm2_ico]: ./icon/app/iterm2.png
+[iTerm2_img]: ./img/app/iterm2/iterm2.png
+
+[ohMyZsh]: https://github.com/robbyrussell/oh-my-zsh
