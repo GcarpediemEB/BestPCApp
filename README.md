@@ -281,6 +281,28 @@ brew cask install google-chrome
 
 **Chrome**还内置了强大的开发者工具，便于WEB开发者对网页进行调试、诊断。
 
+2. [Firefox][Firefox]-极简、轻量、可扩展的浏览器
+
+![Firefox][Firefox_ico]
+
+> 适用于 Mac、PC 以及 Linux 的全新、快速浏览器
+
+![Firefox][Firefox_img]
+
+**Firefox**由[Mozilla][Mozilla]开发，是一款免费、开源的浏览器应用，其前身是**Netscape Navigator**。
+
+**Firefox**拥有同**Chrome**类似的功能，你也可以通过安装不同的插件来增强它的功能。
+
+**Firefox**亦适用于计算机、手机和平板电脑。其中文名称是**火狐**，由[谋智中国][Mozilla-cn]负责运营。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+```
+brew cask install firefox
+```
+
+**Firefox**内置了强大的开发者工具。
+
 ## ![Develop][Develop] 开发工具
 1.[Postman][Postman]-API开发测试工具
 
@@ -395,5 +417,10 @@ brew cask install iterm2
 [Chrome-webstore]: https://chrome.google.com/webstore "Chrome webstore"
 [Chrome_ico]: ./icon/app/chrome.png
 [Chrome_img]: ./img/app/chrome/chrome.jpg
-
 [Chromium]: https://www.chromium.org/ "The Chromium Projects"
+
+[Mozilla]: https://www.mozilla.org "Mozilla"
+[Mozilla-cn]: http://mozilla.com.cn/ "谋智中国"
+[Firefox]: https://www.mozilla.org/zh-CN/firefox/ "适用于 Mac、PC 以及 Linux 的全新、快速浏览器  Firefox"
+[Firefox_ico]: ./icon/app/firefox.png
+[Firefox_img]: ./img/app/firefox/firefox.png
