@@ -298,6 +298,19 @@ brew cask install alfred
 
 **Wox**可与[Everything][Everything]配合使用，实现对文件的快速搜索。
 
+4. [Everything][Everything]-极速文件搜索引擎
+
+![Everything][Everything_ico]
+
+> Locate files and folders by name instantly
+
+![Everything][Everything_img]
+
+**Everything**是Windows平台上一款极速文件搜索引擎，初次运行时，**Everything**会为磁盘中的文件建立索引，之后便通过这些搜索完成文件的极速搜索。
+
+![Windows][Windows]
+
+利用**Everything**，你还可以将你的计算机架设成为一台简易的**Http**或**FTP**服务器。
 ## ![Web][Web] 浏览器
 1.[Chrome][Chrome]-简洁、快速、强大、可扩展的浏览器
 
@@ -503,3 +516,5 @@ brew cask install dash
 [Wox_img]: ./img/app/wox/wox.png
 
 [Everything]: https://www.voidtools.com/ "Locate files and folders by name instantly."
+[Everything_ico]: ./icon/app/everything.png
+[Everything_img]: ./img/app/everything/everything.png
