@@ -306,7 +306,9 @@ brew cask install alfred
 
 ![Everything][Everything_img]
 
-**Everything**是Windows平台上一款极速文件搜索引擎，初次运行时，**Everything**会为磁盘中的文件建立索引，之后便通过这些搜索完成文件的极速搜索。
+**Everything**是Windows平台上一款极速文件搜索引擎。
+
+初次运行时，**Everything**会为磁盘中的文件建立索引，之后便通过这些索引完成对**文件/文件夹**的极速搜索。
 
 ![Windows][Windows]
 
