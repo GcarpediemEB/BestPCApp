@@ -129,6 +129,25 @@ brew cask install sublime-text
 brew cask install typora
 ```
 
+## ![Game][Game] 娱乐
+1.[Openemu][Openemu]-开源、强大的视频游戏模拟器
+
+![Openemu][Openemu_ico]
+
+> OpenEmu is about to change the world of video game emulation. One console at a time...
+
+![Openemu][Openemu_img]
+
+**Openemu**是一款免费、开源、强大的视频游戏模拟器。
+
+**Openemu**目前可以对30多款游戏机进行完美模拟，此外，通过**Openemu**，你还可以很方便的对你的游戏进行管理。
+
+![MacOS][MacOS]
+
+```
+brew cask install openemu
+```
+
 ## ![Media][Media] 音乐/视频
 1. [Vox][Vox]-简约、高颜值的音乐播放器
 
@@ -520,3 +539,7 @@ brew cask install dash
 [Everything]: https://www.voidtools.com/ "Locate files and folders by name instantly."
 [Everything_ico]: ./icon/app/everything.png
 [Everything_img]: ./img/app/everything/everything.png
+
+[Openemu]: http://openemu.org/ "OpenEmu - Multiple Video Game System"
+[Openemu_ico]: ./icon/app/openemu.png
+[Openemu_img]: ./img/app/openemu/openemu.png
