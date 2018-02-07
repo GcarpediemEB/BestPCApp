@@ -284,6 +284,20 @@ brew cask install alfred
 
 [Alfred-workflow][alfredworkflow]网站上提供了丰富的**workflow**，你可以根据需要进行安装，以提高你的工作效率。
 
+3. [Wox][Wox]-Windows平台高效启动器
+
+![Wox][Wox_ico]
+
+> An effective launcher for windows
+
+![Wox][Wox_img]
+
+**Wox**是Windows平台上的高效启动器，其功能类似与[Alfred][Alfred]，亦支持自定义的**主题**与**插件**。
+
+![Windows][Windows]
+
+**Wox**可与[Everything][Everything]配合使用，实现对文件的快速搜索。
+
 ## ![Web][Web] 浏览器
 1.[Chrome][Chrome]-简洁、快速、强大、可扩展的浏览器
 
@@ -483,3 +497,9 @@ brew cask install dash
 [Alfred_img]: ./img/app/alfred/alfred.jpg
 [Workflow_img]: ./img/app/alfred/workflows.jpg
 [alfredworkflow]: http://www.alfredworkflow.com/ "Alfred 2 Workflow List . Search, Install and Share"
+
+[Wox]: http://www.getwox.com/ "An effective launcher for windows"
+[Wox_ico]: ./icon/app/wox.png
+[Wox_img]: ./img/app/wox/wox.png
+
+[Everything]: https://www.voidtools.com/ "Locate files and folders by name instantly."
