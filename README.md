@@ -24,6 +24,8 @@
 
 ![Safe][Safe] 安全/清理/维护
 
+![Tool][Tool] 实用工具
+
 ![Web][Web] 浏览器
 
 ![Develop][Develop] 开发工具
@@ -239,6 +241,46 @@ brew cask install 1password
 ```
 
 
+## ![Tool][Tool] 实用工具
+1.[Flux][Flux]-屏幕亮度、色调调节
+
+![Flux][Flux_ico]
+
+> flux: software to make your life better
+
+![Flux][Flux_img]
+
+**Flux**会根据你所在地区的时间，自动调节电脑屏幕的亮度与色调。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+```
+brew cask install flux
+```
+
+## ![Web][Web] 浏览器
+1.[Chrome][Chrome]-简洁、快速、强大、可扩展的浏览器
+
+![Chrome][Chrome_ico]
+
+> 一款适用于计算机、手机和平板电脑的浏览器
+
+![Chrome][Chrome_img]
+
+**Chrome**是Google公司基于开源[Chromium][Chromium]项目开发的浏览器应用，加入了Google账户体系以及[Chrome网上商店][Chrome-webstore]。
+
+**Chrome**默认使用Google搜索引擎，支持**书签**、**浏览历史**、**浏览器扩展**等信息的自动同步。
+
+[Chrome网上商店][Chrome-webstore]则提供了丰富的浏览器插件，用于扩展**Chrome**浏览器的功能。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+```
+brew cask install google-chrome
+```
+
+**Chrome**还内置了强大的开发者工具，便于WEB开发者对网页进行调试、诊断。
+
 ## ![Develop][Develop] 开发工具
 1.[Postman][Postman]-API开发测试工具
 
@@ -281,6 +323,7 @@ brew cask install postman
 brew cask install iterm2
 ```
 
+
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
 
@@ -291,6 +334,7 @@ brew cask install iterm2
 [Media]: ./icon/type/media.png "Media"
 [Office]: ./icon/type/office.png "Office"
 [Safe]: ./icon/type/safe.png "Safe"
+[Tool]: ./icon/type/tool.png "Tool"
 [Web]: ./icon/type/web.png "Web"
 
 [Kiwix]: http://www.kiwix.org/ "Kiwix:Read Wikipedia offline"
@@ -342,3 +386,14 @@ brew cask install iterm2
 [iTerm2_img]: ./img/app/iterm2/iterm2.png
 
 [ohMyZsh]: https://github.com/robbyrussell/oh-my-zsh
+
+[flux]: https://justgetflux.com/ "f.lux: software to make your life better"
+[flux_ico]: ./icon/app/flux.png
+[flux_img]: ./img/app/flux/flux.jpg
+
+[Chrome]: https://www.google.com/chrome/ "Chrome"
+[Chrome-webstore]: https://chrome.google.com/webstore "Chrome webstore"
+[Chrome_ico]: ./icon/app/chrome.png
+[Chrome_img]: ./img/app/chrome/chrome.jpg
+
+[Chromium]: https://www.chromium.org/ "The Chromium Projects"
