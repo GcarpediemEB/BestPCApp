@@ -258,6 +258,32 @@ brew cask install 1password
 brew cask install flux
 ```
 
+2.[Alfred][Alfred]-大幅提高你工作效率的神器
+
+![Alfred][Alfred_ico]
+
+> Alfred - Productivity App for Mac OS X
+
+![Alfred][Alfred_img]
+
+**Alfred**可以可以大幅提高你的工作效率。
+
+通过简短的关键字，你可以快速启动APP，执行**关机**、**锁屏**、**文件搜索**等操作，或者执行你自定义的动作。
+
+![MacOS][MacOS]
+
+```
+brew cask install alfred
+```
+
+![Workflow][Workflow_img]
+
+**Alfred**亦提高了强大的插件机制-**Alfred-workflow**。**Alfred-workflow**即**Alfred工作流**，是一系列动作的集合，它们在某些特定的条件下触发，以完成不同的工作。
+
+例如，你可以通过**Alfred-workflow**来完成汇率转换，或者是获取今日的天气情况。
+
+[Alfred-workflow][alfredworkflow]网站上提供了丰富的**workflow**，你可以根据需要进行安装，以提高你的工作效率。
+
 ## ![Web][Web] 浏览器
 1.[Chrome][Chrome]-简洁、快速、强大、可扩展的浏览器
 
@@ -451,3 +477,9 @@ brew cask install dash
 [Dash_img]: ./img/app/dash/dash.png
 
 [StackOverflow]: https://stackoverflow.com/ "Stack Overflow - Where Developers Learn, Share, & Build Careers"
+
+[Alfred]: http://www.alfredworkflow.com/ "Alfred - Productivity App for Mac OS X"
+[Alfred_ico]: ./icon/app/alfred.png
+[Alfred_img]: ./img/app/alfred/alfred.jpg
+[Workflow_img]: ./img/app/alfred/workflows.jpg
+[alfredworkflow]: http://www.alfredworkflow.com/ "Alfred 2 Workflow List . Search, Install and Share"
