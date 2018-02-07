@@ -142,7 +142,7 @@ brew cask install typora
 
 **Vox**可以播放**本地**、**Vox Clound**、**Last.fm**或者**iTunes**中的音乐，此外还支持网络广播。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] 
 ```
 brew cask install vox
 ```
@@ -345,6 +345,27 @@ brew cask install postman
 brew cask install iterm2
 ```
 
+3.[Dash][Dash]-API文档浏览、代码片段管理工具
+
+![Dash][Dash_ico]
+
+> Dash - API Documentation Browser, Snippet Manager
+
+![Dash][Dash_img]
+
+**Dash**可以帮助你快速浏览各种API文档，以及高效地对代码片段进行管理。
+
+**Dash**支持200多种离线文档，包含了诸如**C**、**Go**、**Java**、**PHP**、**Ruby**等编程语言的指南，以及诸如**iOS**、**macOS**、**Android**等平台的手册，以及**Jquery**、**Cocos2D**、**Flash**、**Ruby on Rails**等库/框架的文档。此外，对于**Docker**、**Qt**、**Unity 3D**，**Dash**也提供其文档支持。
+
+通过**Dash**，你还可以下载某种**语言/库/软件/框架**在[StackOverflow][StackOverflow]及**Github Docs**上的文档。
+
+![MacOS][MacOS]
+
+```
+brew cask install dash
+```
+
+对于某些**语言/库/软件/框架**，你还可以通过**Dash**获取其**Cheat Sheet**或者用户自制的文档/手册。
 
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
@@ -424,3 +445,9 @@ brew cask install iterm2
 [Firefox]: https://www.mozilla.org/zh-CN/firefox/ "适用于 Mac、PC 以及 Linux 的全新、快速浏览器  Firefox"
 [Firefox_ico]: ./icon/app/firefox.png
 [Firefox_img]: ./img/app/firefox/firefox.png
+
+[Dash]: https://kapeli.com/dash "Dash - API Documentation Browser, Snippet Manager"
+[Dash_ico]: ./icon/app/dash.png
+[Dash_img]: ./img/app/dash/dash.png
+
+[StackOverflow]: https://stackoverflow.com/ "Stack Overflow - Where Developers Learn, Share, & Build Careers"
