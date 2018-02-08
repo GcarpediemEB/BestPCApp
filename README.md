@@ -171,6 +171,21 @@ brew cask install vox
 
 ![Vox-Setup][Vox-setup_img]
 
+2. [AirPlay][Airplay3]-唯美的音乐播放器
+
+![Airplay3][Airplay3_ico]
+
+![Airplay3][Airplay3_img]
+
+**AirPlay**又名**飞乐**，是一款唯美、轻量的音乐播放器，**Windows**版的软件包大小为**2.2MB**，**Mac**版的软件包大小为**710KB**。
+
+**AirPlay**的维护更新一直较慢，当前最高版本为**AirPlay3测试版**，支持**Windows**、**Mac OS**等PC平台以及**iPhone**、**iPad**、**Android**等移动平台。
+
+由于软件自身的运营问题，其官网目前已无法访问，你可在[Archive][Archive-Airplay3]中访问其网站历史页面。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+
 ## ![Safe][Safe] 安全/清理/维护
 1. [Homebrew][Homebrew]-软件管家
 
@@ -543,3 +558,9 @@ brew cask install dash
 [Openemu]: http://openemu.org/ "OpenEmu - Multiple Video Game System"
 [Openemu_ico]: ./icon/app/openemu.png
 [Openemu_img]: ./img/app/openemu/openemu.png
+
+[Airplay3]: http://airplay3.com/ "Airplay3"
+[Airplay3_ico]: ./icon/app/airplay.jpg
+[Airplay3_img]: ./img/app/airplay/airplay.jpg
+
+[Archive-Airplay3]: https://web.archive.org/web/20120919192052/http://airplay3.com/selected.html
