@@ -269,7 +269,7 @@ brew cask install lastpass
 
 将**LastPass**配合[Google 身份验证器][Google-Authenticator]一同使用，每次登录**LastPass**账户时，都需要输入发送到[Google 身份验证器][Google-Authenticator]的上的验证码。
 
-3. [1Password][[1Password]-高颜值且功能强大的密码管理器
+3. [1Password][1Password]-高颜值且功能强大的密码管理器
 
 ![1Password][1Password_ico]
 
@@ -502,6 +502,32 @@ brew cask install dash
 
 ![MacOS][MacOS]
 
+```
+brew cask install sequel-pro
+```
+
+5. [SourceTree][Sourcetree]-简洁、强大的Git客户端
+
+![SourceTree][SourceTree_ico]
+
+> Free Git GUI for Mac and Windows
+
+![SourceTree][SourceTree_img]
+
+**SourceTree**是一款图形化**Git**客户端。
+
+通过**SourceTree**，你可以方便快速地完成诸如**切换分支**、**合并分支**、**比较文件差异**等工作。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+```
+brew cask install sourcetree
+```
+
+**SourceTree**可以关联[Bitbucket][Bitbucket]与[Github][Github]的账户，你可以在**SourceTree**对其进行统一管理。
+
+**SourceTree**配合**Git-flow**，使用效果更佳。
+
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
 [Linux]: ./icon/os/linux.png   "Linux"
@@ -622,3 +648,10 @@ brew cask install dash
 [Sequelpro]: http://www.sequelpro.com/ "Sequel Pro"
 [Sequelpro_ico]: ./icon/app/sequelpro.png
 [Sequelpro_img]: ./img/app/sequelpro/sequelpro.png
+
+[Sourcetree]: https://www.sourcetreeapp.com/ "Free Git GUI for Mac and Windows"
+[Sourcetree_ico]: ./icon/app/sourcetree.svg
+[Sourcetree_img]: ./img/app/sourcetree/sourcetree.png
+
+[Bitbucket]: https://bitbucket.org "The Git solution for professional teams"
+[GitHub]: https://github.com/ "GitHub"
