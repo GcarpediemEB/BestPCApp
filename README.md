@@ -16,7 +16,9 @@
 
 ![Dictionary][Dictionary] 词典/百科 
 
-![Edit][Edit] 文本编辑 
+![Edit][Edit] 文本编辑
+
+![File][File] 文件管理 
 
 ![Game][Game] 娱乐
 
@@ -87,7 +89,24 @@ brew cask install eudic
 
 ![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
+## ![File][File] 文件管理 
+1. [Handshaker][Handshaker]-手机和电脑之间的文件传输及管理工具
 
+![Handshaker][Handshaker_ico]
+
+![Handshaker][Handshaker_img]
+
+**Handshaker**是[锤子科技][Smartisan]出品的一款手机和电脑之间的文件传输及管理工具。
+
+你可以在**Mac**与**Windows**上方便自如地管理**Android**手机中的内容。
+
+![MacOS][MacOS] ![Windows][Windows]
+
+```
+brew cask install handshaker
+```
+
+**Handshaker**支持**USB**与**Wi-Fi**两种连接方式。
 
 ## ![Edit][Edit] 文本编辑
 1. [Sublime-Text][SublimeText]-高颜值、高效率的文本编辑器
@@ -535,6 +554,7 @@ brew cask install sourcetree
 [Develop]: ./icon/type/develop.png "Develop"
 [Dictionary]: ./icon/type/dictionary.png "Dictionary"
 [Edit]: ./icon/type/edit.png "Edit"
+[File]: ./icon/type/file.png "File manage"
 [Game]: ./icon/type/game.png "Game"
 [Media]: ./icon/type/media.png "Media"
 [Office]: ./icon/type/office.png "Office"
@@ -655,3 +675,9 @@ brew cask install sourcetree
 
 [Bitbucket]: https://bitbucket.org "The Git solution for professional teams"
 [GitHub]: https://github.com/ "GitHub"
+
+[Handshaker]: https://www.smartisan.com/apps/handshaker "在MacOS与Windows上优雅地管理你的Android设备"
+[Handshaker_ico]: ./icon/app/handshaker.png
+[Handshaker_img]: ./img/app/handshaker/handshaker.png
+
+[Smartisan]: https://www.smartisan.com "锤子科技官网"
