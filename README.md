@@ -10,6 +10,8 @@
 
 ![Windows][Windows]   Windows
 
+![Linux][Linux]   Linux
+
 ### 分类
 
 ![Dictionary][Dictionary] 词典/百科 
@@ -52,7 +54,7 @@
 
 通过 **Kiwix**，你可以下载 **维基百科**、**TED**等内容，之后，你便可以在你自己的电脑中自由浏览它们。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install kiwix
@@ -83,7 +85,7 @@ brew cask install eudic
 
 **有道词典** 是网易出品的词典软件，其主要功能与 **欧路词典** 类似，但不支持加载第三方词库。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 
 
@@ -102,7 +104,7 @@ brew cask install eudic
 
 如果你具备一定的技术知识，也可对**Sublime Text**进行更多个性化定制，或者编写你自己的插件。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install sublime-text
@@ -123,7 +125,7 @@ brew cask install sublime-text
 
 你可以随意在**编辑**与**预览**模式之间无缝切换，也可将文档导出为**PDF**、**Doc**、**HTML**等格式。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install typora
@@ -185,6 +187,17 @@ brew cask install vox
 
 ![MacOS][MacOS] ![Windows][Windows]
 
+3. [Listen1][Listen1]-尽享网易云音乐，虾米，QQ音乐。
+
+![Listen1][Listen1_ico]
+
+![Listen1][Listen1_img]
+
+**Listen 1**可以搜索和播放来自网易云音乐，虾米，QQ音乐三个主流音乐网站的歌曲。
+
+**Listen 1**还支持歌单功能，你可以方便的播放，收藏和创建自己的歌单。
+
+**Listen 1**支持**Windows**、**Mac OS**等PC平台，并且提供**Chrome**、**Firefox**的浏览器插件。
 
 ## ![Safe][Safe] 安全/清理/维护
 1. [Homebrew][Homebrew]-软件管家
@@ -244,7 +257,7 @@ brew upgarade
 
 其支持**Windows**、**MacOS**、**Linux**等PC平台与**Android**、**iOS**等移动平台，并且提供**Chrome**、**FireFox**、**Safari**、**Opera**等浏览器的插件应用。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install lastpass
@@ -275,11 +288,13 @@ brew cask install 1password
 ```
 
 4. [Advanced SystemCare][Asc]
+
 ![Advanced SystemCare][Asc_ico]
 
 > Free Optimization Software & Free Registry Cleaner
 
 ![Advanced SystemCare][Asc_img]
+
 **Advanced SystemCare**是IObit公司推出的一款系统优化软件。
 
 **Advanced SystemCare**提供了**清理**、**维护**、**优化**等众多功能，
@@ -299,7 +314,7 @@ brew cask install 1password
 
 **Flux**会根据你所在地区的时间，自动调节电脑屏幕的亮度与色调。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install flux
@@ -375,7 +390,7 @@ brew cask install alfred
 
 [Chrome网上商店][Chrome-webstore]则提供了丰富的浏览器插件，用于扩展**Chrome**浏览器的功能。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install google-chrome
@@ -397,7 +412,7 @@ brew cask install google-chrome
 
 **Firefox**亦适用于计算机、手机和平板电脑。其中文名称是**火狐**，由[谋智中国][Mozilla-cn]负责运营。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install firefox
@@ -418,7 +433,7 @@ brew cask install firefox
 
 通过**Postman**，你可以方便地对**Restfull api**进行测试，并且可以快速地生成有关的API文档分享给你的同伴。
 
-![MacOS][MacOS] ![Windows][Windows]
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
 
 ```
 brew cask install postman
@@ -459,6 +474,8 @@ brew cask install iterm2
 
 **Dash**支持200多种离线文档，包含了诸如**C**、**Go**、**Java**、**PHP**、**Ruby**等编程语言的指南，以及诸如**iOS**、**macOS**、**Android**等平台的手册，以及**Jquery**、**Cocos2D**、**Flash**、**Ruby on Rails**等库/框架的文档。此外，对于**Docker**、**Qt**、**Unity 3D**，**Dash**也提供其文档支持。
 
+对于**XCode**、**IntelliJ IDEA**、**Eclipse**等IDE，**Dash**均提供了有关插件以提高你的开发效率。
+
 通过**Dash**，你还可以下载某种**语言/库/软件/框架**在[StackOverflow][StackOverflow]及**Github Docs**上的文档。
 
 ![MacOS][MacOS]
@@ -469,8 +486,21 @@ brew cask install dash
 
 对于某些**语言/库/软件/框架**，你还可以通过**Dash**获取其**Cheat Sheet**或者用户自制的文档/手册。
 
+4. [SequelPro][Sequelpro]-快速、易用的**MySQL & MariaDB**数据库管理软件
+
+![SequelPro][Sequelpro_ico]
+
+> Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
+
+![SequelPro][Sequelpro_img]
+
+**SequelPro**是一款免费、开源的**MySQL & MariaDB**数据库管理软件。
+
+通过**SequelPro**，你可以方便的完成常见的数据库的修改和管理工作。
+
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
+[Linux]: ./icon/os/linux.png   "Linux"
 
 [Develop]: ./icon/type/develop.png "Develop"
 [Dictionary]: ./icon/type/dictionary.png "Dictionary"
@@ -580,3 +610,11 @@ brew cask install dash
 [Asc]: https://www.iobit.com/en/advancedsystemcarefree.php "IObit Advanced SystemCare Free - Free Optimization Software & Free Registry Cleaner"
 [Asc_ico]: ./icon/app/asc.png
 [Asc_img]: ./img/app/asc/asc.png
+
+[Listen1]:http://listen1.github.io/listen1/ "Listen 1 音乐播放器"
+[Listen1_ico]: ./icon/app/listen1.png
+[Listen1_img]: ./img/app/listen1/listen1.png
+
+[Sequelpro]: http://www.sequelpro.com/ "Sequel Pro"
+[Sequelpro_ico]: ./icon/app/sequelpro.png
+[Sequelpro_img]: ./img/app/sequelpro/sequelpro.png
