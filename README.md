@@ -274,6 +274,19 @@ brew cask install lastpass
 brew cask install 1password
 ```
 
+4. [Advanced SystemCare][Asc]
+![Advanced SystemCare][Asc_ico]
+
+> Free Optimization Software & Free Registry Cleaner
+
+![Advanced SystemCare][Asc_img]
+**Advanced SystemCare**是IObit公司推出的一款系统优化软件。
+
+**Advanced SystemCare**提供了**清理**、**维护**、**优化**等众多功能，
+
+在其维基百科条目中，**Advanced SystemCare**提供了如下功能：**恶意软件清除**、**隐私数据清除**、**注册表修复**、**垃圾文件清理**、**快捷方式修复**、**网络加速**、**注册表碎片整理**、**系统优化**、**电脑安全防护**、**磁盘扫描**、**漏洞修复**、**磁盘碎片整理** ......
+
+![Windows][Windows]
 
 ## ![Tool][Tool] 实用工具
 1.[Flux][Flux]-屏幕亮度、色调调节
@@ -562,5 +575,8 @@ brew cask install dash
 [Airplay3]: http://airplay3.com/ "Airplay3"
 [Airplay3_ico]: ./icon/app/airplay.jpg
 [Airplay3_img]: ./img/app/airplay/airplay.jpg
-
 [Archive-Airplay3]: https://web.archive.org/web/20120919192052/http://airplay3.com/selected.html
+
+[Asc]: https://www.iobit.com/en/advancedsystemcarefree.php "IObit Advanced SystemCare Free - Free Optimization Software & Free Registry Cleaner"
+[Asc_ico]: ./icon/app/asc.png
+[Asc_img]: ./img/app/asc/asc.png
