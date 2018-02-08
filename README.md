@@ -199,6 +199,8 @@ brew cask install vox
 
 **Listen 1**支持**Windows**、**Mac OS**等PC平台，并且提供**Chrome**、**Firefox**的浏览器插件。
 
+![MacOS][MacOS] ![Windows][Windows] ![Linux][Linux]
+
 ## ![Safe][Safe] 安全/清理/维护
 1. [Homebrew][Homebrew]-软件管家
 
@@ -497,6 +499,8 @@ brew cask install dash
 **SequelPro**是一款免费、开源的**MySQL & MariaDB**数据库管理软件。
 
 通过**SequelPro**，你可以方便的完成常见的数据库的修改和管理工作。
+
+![MacOS][MacOS]
 
 [MacOS]: ./icon/os/mac.png   "MacOs"
 [Windows]: ./icon/os/windows.png   "Windows"
