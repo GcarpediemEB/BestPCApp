@@ -108,6 +108,20 @@ brew cask install handshaker
 
 **Handshaker**支持**USB**与**Wi-Fi**两种连接方式。
 
+2. [Clover3][Clover]-给**Windows**资源管理器加上多标签
+
+![Clover3][Clover_ico]
+
+> 为您的 Windows Explorer 插上翅膀！
+
+![Clover3][Clover_img]
+
+**Clover**是**Windows**资源管理器的一个扩展，为其增加类似谷歌**Chrome**浏览器的多标签页功能。
+
+通过**Clover**，你可以在**Windows**资源管理器高效地完成跨目录的文件操作，或者快速在不同文件夹中进行切换。
+
+![Windows][Windows]
+
 ## ![Edit][Edit] 文本编辑
 1. [Sublime-Text][SublimeText]-高颜值、高效率的文本编辑器
 
@@ -681,3 +695,7 @@ brew cask install sourcetree
 [Handshaker_img]: ./img/app/handshaker/handshaker.png
 
 [Smartisan]: https://www.smartisan.com "锤子科技官网"
+
+[Clover]: http://cn.ejie.me/ "Clover给资源管理器加上类似Chrome的标签"
+[Clover_ico]: ./icon/app/clover.png
+[Clover_img]: ./img/app/clover/clover.jpg
